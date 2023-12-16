@@ -802,7 +802,7 @@ def MainSector():
                         derrotas = int(terceira_linha)
 
                         pontos_passados = Pontos
-                        novo_total_pts = pontos + pontos_passados
+                        novo_total_pts = pontos
                         novo_total_vit = vitorias
                         novo_total_der = derrotas + 1
 
